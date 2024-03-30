@@ -45,6 +45,8 @@ Data Description: The scraped data includes the following attributes for each un
 
 Nigeria's University Landscape: A Total of 190 Universities
 
+To interact with the charts, you can check the Jupyter notebook [here](https://colab.research.google.com/drive/1QFCnd0N8ZsdZxHiTsRHZcpgBWm_cKMum?usp=sharing )
+
 1. Distribution of Universities by States in Nigeria
 
   ![](1_Distribution_of_Universities_by_States_in_Nigeria.png)
