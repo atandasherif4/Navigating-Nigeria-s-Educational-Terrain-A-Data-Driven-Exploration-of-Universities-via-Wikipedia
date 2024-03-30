@@ -104,4 +104,8 @@ Nigeria's University Landscape: A Total of 190 Universities
   ![](10_Institutions_Granted_University_Status_Later.png)
 
 
+## CONCLUSION
+Overall, this analysis has provided a detailed picture of Nigeria's university landscape, offering valuable insights for stakeholders in the educational sector. This information can be leveraged for informed decision-making regarding resource allocation, infrastructure development, and future university establishment strategies.
 
+## RECOMMENDATION
+More data should be provided on varying courses offered by these universities, annual population of students, etc to aid in further analysis.
