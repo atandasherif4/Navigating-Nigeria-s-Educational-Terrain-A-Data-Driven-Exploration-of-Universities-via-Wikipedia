@@ -47,50 +47,61 @@ Nigeria's University Landscape: A Total of 190 Universities
 
 1. Distribution of Universities by States in Nigeria
 
-![](1_Distribution_of_Universities_by_States_in_Nigeria.png)
+  ![](1_Distribution_of_Universities_by_States_in_Nigeria.png)
+
 
 
 2. Breakdown of Universities in Nigeria by Ownership
 
-![](2_Breakdown_of_Universities_in_Nigeria_by_Ownership.png)
+  ![](2_Breakdown_of_Universities_in_Nigeria_by_Ownership.png)
+
 
 
 3. Historical Trend of University Establishment in Nigeria (1948-2022)
 
-![](3_Historical_Trend_of_University_Establishment_in_Nigeria_(1948-2022)png)
+  ![](3_Historical_Trend_of_University_Establishment_in_Nigeria_(1948-2022).png)
+
 
 
 4. Top 20 Federal Universities in Nigeria by Year of Establishment
 
-![](4_Top_20_Federal_Universities_in_Nigeria_by_Year_of_Establishment.png)
+   ![](4_Top_20_Federal_Universities_in_Nigeria_by_Year_of_Establishment.png)
+
 
 
 5. Top 20 Private Universities in Nigeria by Year of Establishment
 
-![](5_Top_20_Private_Universities_in_Nigeria_by_Year_of_Establishment.png)
+  ![](5_Top_20_Private_Universities_in_Nigeria_by_Year_of_Establishment.png)
+
 
 
 6. Top 20 State Universities in Nigeria by Year of Establishment
 
-![](6_Top_20_State_Universities_in_Nigeria_by_Year_of_Establishment.png)
+  ![](6_Top_20_State_Universities_in_Nigeria_by_Year_of_Establishment.png)
+
 
 
 7. Distribution of Universities by Founding Century (20th vs. 21st)
-![](7_Distribution_of_Universities_by_Founding_Century_(20th_vs_21st).png)
+
+![](7_Distribution_of_Universities_by_Founding_Century_(20th_vs_21st).png.png)
+
 
 
 8. Distribution of Universities by Founding Cetury and Ownership
 
-![](8_Distribution_of_Universities_by_Founding_Century_and_Ownership.png)
+  ![](8_Distribution_of_Universities_by_Founding_Century_and_Ownership.png)
+
 
 
 9. Distribution of Universities by Geopolitical Zone in Nigeria
 
-![](9_Distribution_of_Universities_by_Geopolitical_Zone_in_Nigeria.png)
+  ![](9_Distribution_of_Universities_by_Geopolitical_Zone_in_Nigeria.png)
+
 
 
 10. Institutions Granted University Status Later
 
-![](10_Institutions_Granted_University_Status_Later.png)
+  ![](10_Institutions_Granted_University_Status_Later.png)
+
 
 
